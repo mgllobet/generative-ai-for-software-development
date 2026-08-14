@@ -28,7 +28,7 @@ Mirrored from the Lab environment as downloaded:
 - `data/` — 6 CSVs: world/continents/americas country lists, distances, flights, tour countries.
 - `images/` — `app.png` (visualization screenshot).
 - `static/` — `tour_widget.html`, `widget_config.js` (Flask static assets).
-- `templates/` — empty in the Lab download. `tour_widget_server.py` calls `render_template('tour_widget.html')`, which Flask expects to find in `templates/`; the same-named file only exists under `static/`. If the widget fails to render locally, copy `static/tour_widget.html` into `templates/` (or re-check the Lab file browser to see if a separate `templates/tour_widget.html` exists there and needs downloading).
+- `templates/` — `tour_widget.html` (Flask Jinja template rendered by `render_template('tour_widget.html')` in `tour_widget_server.py`). Byte-identical to the copy in `static/`; both are kept as they exist in the Lab.
 
 ## Local workflow
 
