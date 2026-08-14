@@ -1,0 +1,667 @@
+from,to,distance_km,from_name,to_name,from_code,to_code
+0,1,2262,Canada,United States,CA,US
+0,2,3627,Canada,Mexico,CA,MX
+0,3,9305,Canada,Brazil,CA,BR
+0,4,11259,Canada,Argentina,CA,AR
+0,5,10726,Canada,Chile,CA,CL
+0,6,6396,Canada,Colombia,CA,CO
+0,7,7816,Canada,Peru,CA,PE
+0,8,6534,Canada,Venezuela,CA,VE
+0,9,5807,Canada,United Kingdom,CA,GB
+0,10,6841,Canada,France,CA,FR
+0,11,6751,Canada,Germany,CA,DE
+0,12,7060,Canada,Spain,CA,ES
+0,13,7705,Canada,Italy,CA,IT
+0,14,6454,Canada,Netherlands,CA,NL
+0,15,7056,Canada,Switzerland,CA,CH
+0,16,7005,Canada,Poland,CA,PL
+0,17,6214,Canada,Sweden,CA,SE
+0,18,5850,Canada,Norway,CA,NO
+0,19,9944,Canada,Egypt,CA,EG
+0,20,15184,Canada,South Africa,CA,ZA
+0,21,10657,Canada,Nigeria,CA,NG
+0,22,13000,Canada,Kenya,CA,KE
+0,23,7653,Canada,Morocco,CA,MA
+0,24,12141,Canada,Ethiopia,CA,ET
+0,25,9386,Canada,China,CA,CN
+0,26,8083,Canada,Japan,CA,JP
+0,27,11469,Canada,India,CA,IN
+0,28,8579,Canada,South Korea,CA,KR
+0,29,11612,Canada,Thailand,CA,TH
+0,30,13068,Canada,Singapore,CA,SG
+0,31,12886,Canada,Indonesia,CA,ID
+0,32,11573,Canada,Vietnam,CA,VN
+0,33,12827,Canada,Malaysia,CA,MY
+0,34,14152,Canada,Australia,CA,AU
+0,35,13064,Canada,New Zealand,CA,NZ
+0,36,10777,Canada,Fiji,CA,FJ
+1,2,1633,United States,Mexico,US,MX
+1,3,7317,United States,Brazil,US,BR
+1,4,9018,United States,Argentina,US,AR
+1,5,8467,United States,Chile,US,CL
+1,6,4222,United States,Colombia,US,CO
+1,7,5580,United States,Peru,US,PE
+1,8,4508,United States,Venezuela,US,VE
+1,9,6830,United States,United Kingdom,US,GB
+1,10,7666,United States,France,US,FR
+1,11,7861,United States,Germany,US,DE
+1,12,7589,United States,Spain,US,ES
+1,13,8619,United States,Italy,US,IT
+1,14,7506,United States,Netherlands,US,NL
+1,15,8011,United States,Switzerland,US,CH
+1,16,8280,United States,Poland,US,PL
+1,17,7667,United States,Sweden,US,SE
+1,18,7187,United States,Norway,US,NO
+1,19,10976,United States,Egypt,US,EG
+1,20,14399,United States,South Africa,US,ZA
+1,21,10649,United States,Nigeria,US,NG
+1,22,13722,United States,Kenya,US,KE
+1,23,7838,United States,Morocco,US,MA
+1,24,13144,United States,Ethiopia,US,ET
+1,25,11647,United States,China,US,CN
+1,26,10150,United States,Japan,US,JP
+1,27,13577,United States,India,US,IN
+1,28,10743,United States,South Korea,US,KR
+1,29,13871,United States,Thailand,US,TH
+1,30,15290,United States,Singapore,US,SG
+1,31,14962,United States,Indonesia,US,ID
+1,32,13798,United States,Vietnam,US,VN
+1,33,15070,United States,Malaysia,US,MY
+1,34,15184,United States,Australia,US,AU
+1,35,12550,United States,New Zealand,US,NZ
+1,36,10860,United States,Fiji,US,FJ
+2,3,6928,Mexico,Brazil,MX,BR
+2,4,8005,Mexico,Argentina,MX,AR
+2,5,7358,Mexico,Chile,MX,CL
+2,6,3697,Mexico,Colombia,MX,CO
+2,7,4720,Mexico,Peru,MX,PE
+2,8,4290,Mexico,Venezuela,MX,VE
+2,9,8415,Mexico,United Kingdom,MX,GB
+2,10,9190,Mexico,France,MX,FR
+2,11,9448,Mexico,Germany,MX,DE
+2,12,9026,Mexico,Spain,MX,ES
+2,13,10148,Mexico,Italy,MX,IT
+2,14,9086,Mexico,Netherlands,MX,NL
+2,15,9562,Mexico,Switzerland,MX,CH
+2,16,9889,Mexico,Poland,MX,PL
+2,17,9297,Mexico,Sweden,MX,SE
+2,18,8810,Mexico,Norway,MX,NO
+2,19,12494,Mexico,Egypt,MX,EG
+2,20,14615,Mexico,South Africa,MX,ZA
+2,21,11711,Mexico,Nigeria,MX,NG
+2,22,15007,Mexico,Kenya,MX,KE
+2,23,9131,Mexico,Morocco,MX,MA
+2,24,14592,Mexico,Ethiopia,MX,ET
+2,25,12826,Mexico,China,MX,CN
+2,26,10798,Mexico,Japan,MX,JP
+2,27,15094,Mexico,India,MX,IN
+2,28,11543,Mexico,South Korea,MX,KR
+2,29,14932,Mexico,Thailand,MX,TH
+2,30,16035,Mexico,Singapore,MX,SG
+2,31,15335,Mexico,Indonesia,MX,ID
+2,32,14649,Mexico,Vietnam,MX,VN
+2,33,15934,Mexico,Malaysia,MX,MY
+2,34,14354,Mexico,Australia,MX,AU
+2,35,11114,Mexico,New Zealand,MX,NZ
+2,36,9760,Mexico,Fiji,MX,FJ
+3,4,2924,Brazil,Argentina,BR,AR
+3,5,3084,Brazil,Chile,BR,CL
+3,6,3234,Brazil,Colombia,BR,CO
+3,7,2574,Brazil,Peru,BR,PE
+3,8,2810,Brazil,Venezuela,BR,VE
+3,9,8967,Brazil,United Kingdom,BR,GB
+3,10,8625,Brazil,France,BR,FR
+3,11,9432,Brazil,Germany,BR,DE
+3,12,7850,Brazil,Spain,BR,ES
+3,13,9070,Brazil,Italy,BR,IT
+3,14,9190,Brazil,Netherlands,BR,NL
+3,15,9043,Brazil,Switzerland,BR,CH
+3,16,10005,Brazil,Poland,BR,PL
+3,17,10343,Brazil,Sweden,BR,SE
+3,18,9867,Brazil,Norway,BR,NO
+3,19,10017,Brazil,Egypt,BR,EG
+3,20,7777,Brazil,South Africa,BR,ZA
+3,21,7168,Brazil,Nigeria,BR,NG
+3,22,9989,Brazil,Kenya,BR,KE
+3,23,7000,Brazil,Morocco,BR,MA
+3,24,10514,Brazil,Ethiopia,BR,ET
+3,25,16633,Brazil,China,BR,CN
+3,26,17370,Brazil,Japan,BR,JP
+3,27,14775,Brazil,India,BR,IN
+3,28,17605,Brazil,South Korea,BR,KR
+3,29,17103,Brazil,Thailand,BR,TH
+3,30,16989,Brazil,Singapore,BR,SG
+3,31,17731,Brazil,Indonesia,BR,ID
+3,32,17881,Brazil,Vietnam,BR,VN
+3,33,16946,Brazil,Malaysia,BR,MY
+3,34,15579,Brazil,Australia,BR,AU
+3,35,12221,Brazil,New Zealand,BR,NZ
+3,36,13483,Brazil,Fiji,BR,FJ
+4,5,766,Argentina,Chile,AR,CL
+4,6,4905,Argentina,Colombia,AR,CO
+4,7,3444,Argentina,Peru,AR,PE
+4,8,4995,Argentina,Venezuela,AR,VE
+4,9,11882,Argentina,United Kingdom,AR,GB
+4,10,11465,Argentina,France,AR,FR
+4,11,12280,Argentina,Germany,AR,DE
+4,12,10671,Argentina,Spain,AR,ES
+4,13,11785,Argentina,Italy,AR,IT
+4,14,12066,Argentina,Netherlands,AR,NL
+4,15,11856,Argentina,Switzerland,AR,CH
+4,16,12827,Argentina,Poland,AR,PL
+4,17,13243,Argentina,Sweden,AR,SE
+4,18,12782,Argentina,Norway,AR,NO
+4,19,12179,Argentina,Egypt,AR,EG
+4,20,7685,Argentina,South Africa,AR,ZA
+4,21,9130,Argentina,Nigeria,AR,NG
+4,22,11007,Argentina,Kenya,AR,KE
+4,23,9753,Argentina,Morocco,AR,MA
+4,24,11864,Argentina,Ethiopia,AR,ET
+4,25,18899,Argentina,China,AR,CN
+4,26,18070,Argentina,Japan,AR,JP
+4,27,15927,Argentina,India,AR,IN
+4,28,18969,Argentina,South Korea,AR,KR
+4,29,17091,Argentina,Thailand,AR,TH
+4,30,15699,Argentina,Singapore,AR,SG
+4,31,15648,Argentina,Indonesia,AR,ID
+4,32,17192,Argentina,Vietnam,AR,VN
+4,33,15941,Argentina,Malaysia,AR,MY
+4,34,12705,Argentina,Australia,AR,AU
+4,35,9386,Argentina,New Zealand,AR,NZ
+4,36,11064,Argentina,Fiji,AR,FJ
+5,6,4484,Chile,Colombia,CL,CO
+5,7,2966,Chile,Peru,CL,PE
+5,8,4710,Chile,Venezuela,CL,VE
+5,9,12001,Chile,United Kingdom,CL,GB
+5,10,11709,Chile,France,CL,FR
+5,11,12514,Chile,Germany,CL,DE
+5,12,10934,Chile,Spain,CL,ES
+5,13,12131,Chile,Italy,CL,IT
+5,14,12264,Chile,Netherlands,CL,NL
+5,15,12127,Chile,Switzerland,CL,CH
+5,16,13089,Chile,Poland,CL,PL
+5,17,13395,Chile,Sweden,CL,SE
+5,18,12896,Chile,Norway,CL,NO
+5,19,12756,Chile,Egypt,CL,EG
+5,20,8451,Chile,South Africa,CL,ZA
+5,21,9726,Chile,Nigeria,CL,NG
+5,22,11751,Chile,Kenya,CL,KE
+5,23,10068,Chile,Morocco,CL,MA
+5,24,12585,Chile,Ethiopia,CL,ET
+5,25,19630,Chile,China,CL,CN
+5,26,17343,Chile,Japan,CL,JP
+5,27,16692,Chile,India,CL,IN
+5,28,18276,Chile,South Korea,CL,KR
+5,29,17692,Chile,Thailand,CL,TH
+5,30,16169,Chile,Singapore,CL,SG
+5,31,15921,Chile,Indonesia,CL,ID
+5,32,17611,Chile,Vietnam,CL,VN
+5,33,16454,Chile,Malaysia,CL,MY
+5,34,12734,Chile,Australia,CL,AU
+5,35,9136,Chile,New Zealand,CL,NZ
+5,36,10596,Chile,Fiji,CL,FJ
+6,7,1532,Colombia,Peru,CO,PE
+6,8,878,Colombia,Venezuela,CO,VE
+6,9,8389,Colombia,United Kingdom,CO,GB
+6,10,8605,Colombia,France,CO,FR
+6,11,9246,Colombia,Germany,CO,DE
+6,12,8038,Colombia,Spain,CO,ES
+6,13,9409,Colombia,Italy,CO,IT
+6,14,8897,Colombia,Netherlands,CO,NL
+6,15,9069,Colombia,Switzerland,CO,CH
+6,16,9843,Colombia,Poland,CO,PL
+6,17,9729,Colombia,Sweden,CO,SE
+6,18,9169,Colombia,Norway,CO,NO
+6,19,11263,Colombia,Egypt,CO,EG
+6,20,10958,Colombia,South Africa,CO,ZA
+6,21,9158,Colombia,Nigeria,CO,NG
+6,22,12468,Colombia,Kenya,CO,KE
+6,23,7591,Colombia,Morocco,CO,MA
+6,24,12629,Colombia,Ethiopia,CO,ET
+6,25,15516,Colombia,China,CO,CN
+6,26,14357,Colombia,Japan,CO,JP
+6,27,15972,Colombia,India,CO,IN
+6,28,14961,Colombia,South Korea,CO,KR
+6,29,17684,Colombia,Thailand,CO,TH
+6,30,19324,Colombia,Singapore,CO,SG
+6,31,19010,Colombia,Indonesia,CO,ID
+6,32,17924,Colombia,Vietnam,CO,VN
+6,33,18954,Colombia,Malaysia,CO,MY
+6,34,16238,Colombia,Australia,CO,AU
+6,35,12082,Colombia,New Zealand,CO,NZ
+6,36,12029,Colombia,Fiji,CO,FJ
+7,8,1971,Peru,Venezuela,PE,VE
+7,9,9716,Peru,United Kingdom,PE,GB
+7,10,9780,Peru,France,PE,FR
+7,11,10489,Peru,Germany,PE,DE
+7,12,9128,Peru,Spain,PE,ES
+7,13,10490,Peru,Italy,PE,IT
+7,14,10161,Peru,Netherlands,PE,NL
+7,15,10243,Peru,Switzerland,PE,CH
+7,16,11095,Peru,Poland,PE,PL
+7,17,11095,Peru,Sweden,PE,SE
+7,18,10542,Peru,Norway,PE,NO
+7,19,12030,Peru,Egypt,PE,EG
+7,20,10240,Peru,South Africa,PE,ZA
+7,21,9485,Peru,Nigeria,PE,NG
+7,22,12521,Peru,Kenya,PE,KE
+7,23,8521,Peru,Morocco,PE,MA
+7,24,12946,Peru,Ethiopia,PE,ET
+7,25,17048,Peru,China,PE,CN
+7,26,15511,Peru,Japan,PE,JP
+7,27,16951,Peru,India,PE,IN
+7,28,16255,Peru,South Korea,PE,KR
+7,29,19155,Peru,Thailand,PE,TH
+7,30,19134,Peru,Singapore,PE,SG
+7,31,18528,Peru,Indonesia,PE,ID
+7,32,19366,Peru,Vietnam,PE,VN
+7,33,19369,Peru,Malaysia,PE,MY
+7,34,15075,Peru,Australia,PE,AU
+7,35,10979,Peru,New Zealand,PE,NZ
+7,36,11454,Peru,Fiji,PE,FJ
+8,9,7750,Venezuela,United Kingdom,VE,GB
+8,10,7869,Venezuela,France,VE,FR
+8,11,8549,Venezuela,Germany,VE,DE
+8,12,7262,Venezuela,Spain,VE,ES
+8,13,8634,Venezuela,Italy,VE,IT
+8,14,8213,Venezuela,Netherlands,VE,NL
+8,15,8334,Venezuela,Switzerland,VE,CH
+8,16,9154,Venezuela,Poland,VE,PL
+8,17,9125,Venezuela,Sweden,VE,SE
+8,18,8571,Venezuela,Norway,VE,NO
+8,19,10413,Venezuela,Egypt,VE,EG
+8,20,10325,Venezuela,South Africa,VE,ZA
+8,21,8284,Venezuela,Nigeria,VE,NG
+8,22,11609,Venezuela,Kenya,VE,KE
+8,23,6762,Venezuela,Morocco,VE,MA
+8,24,11752,Venezuela,Ethiopia,VE,ET
+8,25,15216,Venezuela,China,VE,CN
+8,26,14613,Venezuela,Japan,VE,JP
+8,27,15200,Venezuela,India,VE,IN
+8,28,15075,Venezuela,South Korea,VE,KR
+8,29,17184,Venezuela,Thailand,VE,TH
+8,30,18644,Venezuela,Singapore,VE,SG
+8,31,19386,Venezuela,Indonesia,VE,ID
+8,32,17668,Venezuela,Vietnam,VE,VN
+8,33,18280,Venezuela,Malaysia,VE,MY
+8,34,17002,Venezuela,Australia,VE,AU
+8,35,12853,Venezuela,New Zealand,VE,NZ
+8,36,12905,Venezuela,Fiji,VE,FJ
+9,10,1091,United Kingdom,France,GB,FR
+9,11,1033,United Kingdom,Germany,GB,DE
+9,12,1659,United Kingdom,Spain,GB,ES
+9,13,1898,United Kingdom,Italy,GB,IT
+9,14,677,United Kingdom,Netherlands,GB,NL
+9,15,1249,United Kingdom,Switzerland,GB,CH
+9,16,1530,United Kingdom,Poland,GB,PL
+9,17,1404,United Kingdom,Sweden,GB,SE
+9,18,900,United Kingdom,Norway,GB,NO
+9,19,4200,United Kingdom,Egypt,GB,EG
+9,20,9881,United Kingdom,South Africa,GB,ZA
+9,21,5257,United Kingdom,Nigeria,GB,NG
+9,22,7202,United Kingdom,Kenya,GB,KE
+9,23,2638,United Kingdom,Morocco,GB,MA
+9,24,6413,United Kingdom,Ethiopia,GB,ET
+9,25,7780,United Kingdom,China,GB,CN
+9,26,9200,United Kingdom,Japan,GB,JP
+9,27,7663,United Kingdom,India,GB,IN
+9,28,8858,United Kingdom,South Korea,GB,KR
+9,29,9441,United Kingdom,Thailand,GB,TH
+9,30,10961,United Kingdom,Singapore,GB,SG
+9,31,11765,United Kingdom,Indonesia,GB,ID
+9,32,10033,United Kingdom,Vietnam,GB,VN
+9,33,10583,United Kingdom,Malaysia,GB,MY
+9,34,15206,United Kingdom,Australia,GB,AU
+9,35,18401,United Kingdom,New Zealand,GB,NZ
+9,36,15825,United Kingdom,Fiji,GB,FJ
+10,11,816,France,Germany,FR,DE
+10,12,802,France,Spain,FR,ES
+10,13,958,France,Italy,FR,IT
+10,14,694,France,Netherlands,FR,NL
+10,15,465,France,Switzerland,FR,CH
+10,16,1382,France,Poland,FR,PL
+10,17,1883,France,Sweden,FR,SE
+10,18,1636,France,Norway,FR,NO
+10,19,3312,France,Egypt,FR,EG
+10,20,8789,France,South Africa,FR,ZA
+10,21,4176,France,Nigeria,FR,NG
+10,22,6209,France,Kenya,FR,KE
+10,23,1792,France,Morocco,FR,MA
+10,24,5492,France,Ethiopia,FR,ET
+10,25,8022,France,China,FR,CN
+10,26,9850,France,Japan,FR,JP
+10,27,7369,France,India,FR,IN
+10,28,9384,France,South Korea,FR,KR
+10,29,9396,France,Thailand,FR,TH
+10,30,10787,France,Singapore,FR,SG
+10,31,11722,France,Indonesia,FR,ID
+10,32,10073,France,Vietnam,FR,VN
+10,33,10415,France,Malaysia,FR,MY
+10,34,15159,France,Australia,FR,AU
+10,35,19179,France,New Zealand,FR,NZ
+10,36,16821,France,Fiji,FR,FJ
+11,12,1615,Germany,Spain,DE,ES
+11,13,1046,Germany,Italy,DE,IT
+11,14,372,Germany,Netherlands,DE,NL
+11,15,510,Germany,Switzerland,DE,CH
+11,16,607,Germany,Poland,DE,PL
+11,17,1119,Germany,Sweden,DE,SE
+11,18,1042,Germany,Norway,DE,NO
+11,19,3205,Germany,Egypt,DE,EG
+11,20,9170,Germany,South Africa,DE,ZA
+11,21,4682,Germany,Nigeria,DE,NG
+11,22,6250,Germany,Kenya,DE,KE
+11,23,2589,Germany,Morocco,DE,MA
+11,24,5417,Germany,Ethiopia,DE,ET
+11,25,7224,Germany,China,DE,CN
+11,26,9048,Germany,Japan,DE,JP
+11,27,6752,Germany,India,DE,IN
+11,28,8570,Germany,South Korea,DE,KR
+11,29,8677,Germany,Thailand,DE,TH
+11,30,10125,Germany,Singapore,DE,SG
+11,31,11011,Germany,Indonesia,DE,ID
+11,32,9328,Germany,Vietnam,DE,VN
+11,33,9749,Germany,Malaysia,DE,MY
+11,34,14466,Germany,Australia,DE,AU
+11,35,18364,Germany,New Zealand,DE,NZ
+11,36,16138,Germany,Fiji,DE,FJ
+12,13,1373,Spain,Italy,ES,IT
+12,14,1469,Spain,Netherlands,ES,NL
+12,15,1193,Spain,Switzerland,ES,CH
+12,16,2159,Spain,Poland,ES,PL
+12,17,2676,Spain,Sweden,ES,SE
+12,18,2378,Spain,Norway,ES,NO
+12,19,3510,Spain,Egypt,ES,EG
+12,20,8362,Spain,South Africa,ES,ZA
+12,21,3699,Spain,Nigeria,ES,NG
+12,22,6158,Spain,Kenya,ES,KE
+12,23,1010,Spain,Morocco,ES,MA
+12,24,5572,Spain,Ethiopia,ES,ET
+12,25,8788,Spain,China,ES,CN
+12,26,10649,Spain,Japan,ES,JP
+12,27,7942,Spain,India,ES,IN
+12,28,10185,Spain,South Korea,ES,KR
+12,29,10063,Spain,Thailand,ES,TH
+12,30,11383,Spain,Singapore,ES,SG
+12,31,12369,Spain,Indonesia,ES,ID
+12,32,10768,Spain,Vietnam,ES,VN
+12,33,11018,Spain,Malaysia,ES,MY
+12,34,15754,Spain,Australia,ES,AU
+12,35,19890,Spain,New Zealand,ES,NZ
+12,36,17479,Spain,Fiji,ES,FJ
+13,14,1266,Italy,Netherlands,IT,NL
+13,15,649,Italy,Switzerland,IT,CH
+13,16,1223,Italy,Poland,IT,PL
+13,17,2072,Italy,Sweden,IT,SE
+13,18,2087,Italy,Norway,IT,NO
+13,19,2357,Italy,Egypt,IT,EG
+13,20,8124,Italy,South Africa,IT,ZA
+13,21,3666,Italy,Nigeria,IT,NG
+13,22,5306,Italy,Kenya,IT,KE
+13,23,2070,Italy,Morocco,IT,MA
+13,24,4550,Italy,Ethiopia,IT,ET
+13,25,7566,Italy,China,IT,CN
+13,26,9729,Italy,Japan,IT,JP
+13,27,6569,Italy,India,IT,IN
+13,28,9147,Italy,South Korea,IT,KR
+13,29,8710,Italy,Thailand,IT,TH
+13,30,10011,Italy,Singapore,IT,SG
+13,31,11004,Italy,Indonesia,IT,ID
+13,32,9432,Italy,Vietnam,IT,VN
+13,33,9646,Italy,Malaysia,IT,MY
+13,34,14382,Italy,Australia,IT,AU
+13,35,18539,Italy,New Zealand,IT,NZ
+13,36,16996,Italy,Fiji,IT,FJ
+14,15,628,Netherlands,Switzerland,NL,CH
+14,16,947,Netherlands,Poland,NL,PL
+14,17,1210,Netherlands,Sweden,NL,SE
+14,18,948,Netherlands,Norway,NL,NO
+14,19,3528,Netherlands,Egypt,NL,EG
+14,20,9354,Netherlands,South Africa,NL,ZA
+14,21,4797,Netherlands,Nigeria,NL,NG
+14,22,6548,Netherlands,Kenya,NL,KE
+14,23,2475,Netherlands,Morocco,NL,MA
+14,24,5741,Netherlands,Ethiopia,NL,ET
+14,25,7486,Netherlands,China,NL,CN
+14,26,9185,Netherlands,Japan,NL,JP
+14,27,7110,Netherlands,India,NL,IN
+14,28,8750,Netherlands,South Korea,NL,KR
+14,29,9002,Netherlands,Thailand,NL,TH
+14,30,10469,Netherlands,Singapore,NL,SG
+14,31,11336,Netherlands,Indonesia,NL,ID
+14,32,9638,Netherlands,Vietnam,NL,VN
+14,33,10092,Netherlands,Malaysia,NL,MY
+14,34,14793,Netherlands,Australia,NL,AU
+14,35,18537,Netherlands,New Zealand,NL,NZ
+14,36,16136,Netherlands,Fiji,NL,FJ
+15,16,971,Switzerland,Poland,CH,PL
+15,17,1628,Switzerland,Sweden,CH,SE
+15,18,1518,Switzerland,Norway,CH,NO
+15,19,2975,Switzerland,Egypt,CH,EG
+15,20,8730,Switzerland,South Africa,CH,ZA
+15,21,4196,Switzerland,Nigeria,CH,NG
+15,22,5954,Switzerland,Kenya,CH,KE
+15,23,2120,Switzerland,Morocco,CH,MA
+15,24,5181,Switzerland,Ethiopia,CH,ET
+15,25,7596,Switzerland,China,CH,CN
+15,26,9526,Switzerland,Japan,CH,JP
+15,27,6906,Switzerland,India,CH,IN
+15,28,9020,Switzerland,South Korea,CH,KR
+15,29,8934,Switzerland,Thailand,CH,TH
+15,30,10323,Switzerland,Singapore,CH,SG
+15,31,11259,Switzerland,Indonesia,CH,ID
+15,32,9617,Switzerland,Vietnam,CH,VN
+15,33,9951,Switzerland,Malaysia,CH,MY
+15,34,14695,Switzerland,Australia,CH,AU
+15,35,18762,Switzerland,New Zealand,CH,NZ
+15,36,16647,Switzerland,Fiji,CH,FJ
+16,17,913,Poland,Sweden,PL,SE
+16,18,1155,Poland,Norway,PL,NO
+16,19,2957,Poland,Egypt,PL,EG
+16,20,9179,Poland,South Africa,PL,ZA
+16,21,4858,Poland,Nigeria,PL,NG
+16,22,6037,Poland,Kenya,PL,KE
+16,23,3087,Poland,Morocco,PL,MA
+16,24,5136,Poland,Ethiopia,PL,ET
+16,25,6640,Poland,China,PL,CN
+16,26,8576,Poland,Japan,PL,JP
+16,27,6166,Poland,India,PL,IN
+16,28,8052,Poland,South Korea,PL,KR
+16,29,8070,Poland,Thailand,PL,TH
+16,30,9524,Poland,Singapore,PL,SG
+16,31,10404,Poland,Indonesia,PL,ID
+16,32,8723,Poland,Vietnam,PL,VN
+16,33,9148,Poland,Malaysia,PL,MY
+16,34,13860,Poland,Australia,PL,AU
+16,35,17804,Poland,New Zealand,PL,NZ
+16,36,15787,Poland,Fiji,PL,FJ
+17,18,561,Sweden,Norway,SE,NO
+17,19,3818,Sweden,Egypt,SE,EG
+17,20,10092,Sweden,South Africa,SE,ZA
+17,21,5737,Sweden,Nigeria,SE,NG
+17,22,6892,Sweden,Kenya,SE,KE
+17,23,3675,Sweden,Morocco,SE,MA
+17,24,5954,Sweden,Ethiopia,SE,ET
+17,25,6379,Sweden,China,SE,CN
+17,26,7975,Sweden,Japan,SE,JP
+17,27,6405,Sweden,India,SE,IN
+17,28,7549,Sweden,South Korea,SE,KR
+17,29,8060,Sweden,Thailand,SE,TH
+17,30,9610,Sweden,Singapore,SE,SG
+17,31,10376,Sweden,Indonesia,SE,ID
+17,32,8635,Sweden,Vietnam,SE,VN
+17,33,9233,Sweden,Malaysia,SE,MY
+17,34,13806,Sweden,Australia,SE,AU
+17,35,17327,Sweden,New Zealand,SE,NZ
+17,36,15019,Sweden,Fiji,SE,FJ
+18,19,4106,Norway,Egypt,NO,EG
+18,20,10208,Norway,South Africa,NO,ZA
+18,21,5714,Norway,Nigeria,NO,NG
+18,22,7184,Norway,Kenya,NO,KE
+18,23,3387,Norway,Morocco,NO,MA
+18,24,6291,Norway,Ethiopia,NO,ET
+18,25,6891,Norway,China,NO,CN
+18,26,8335,Norway,Japan,NO,JP
+18,27,6962,Norway,India,NO,IN
+18,28,7966,Norway,South Korea,NO,KR
+18,29,8614,Norway,Thailand,NO,TH
+18,30,10169,Norway,Singapore,NO,SG
+18,31,10924,Norway,Indonesia,NO,ID
+18,32,9178,Norway,Vietnam,NO,VN
+18,33,9792,Norway,Malaysia,NO,MY
+18,34,14342,Norway,Australia,NO,AU
+18,35,17649,Norway,New Zealand,NO,NZ
+18,36,15189,Norway,Fiji,NO,FJ
+19,20,6435,Egypt,South Africa,EG,ZA
+19,21,3050,Egypt,Nigeria,EG,NG
+19,22,3080,Egypt,Kenya,EG,KE
+19,23,3697,Egypt,Morocco,EG,MA
+19,24,2214,Egypt,Ethiopia,EG,ET
+19,25,6883,Egypt,China,EG,CN
+19,26,9685,Egypt,Japan,EG,JP
+19,27,4924,Egypt,India,EG,IN
+19,28,8874,Egypt,South Korea,EG,KR
+19,29,7286,Egypt,Thailand,EG,TH
+19,30,8258,Egypt,Singapore,EG,SG
+19,31,9365,Egypt,Indonesia,EG,ID
+19,32,8084,Egypt,Vietnam,EG,VN
+19,33,7930,Egypt,Malaysia,EG,MY
+19,34,12448,Egypt,Australia,EG,AU
+19,35,16381,Egypt,New Zealand,EG,NZ
+19,36,16509,Egypt,Fiji,EG,FJ
+20,21,4664,South Africa,Nigeria,ZA,NG
+20,22,3746,South Africa,Kenya,ZA,KE
+20,23,7622,South Africa,Morocco,ZA,MA
+20,24,4796,South Africa,Ethiopia,ZA,ET
+20,25,11237,South Africa,China,ZA,CN
+20,26,14087,South Africa,Japan,ZA,JP
+20,27,8255,South Africa,India,ZA,IN
+20,28,13173,South Africa,South Korea,ZA,KR
+20,29,9801,South Africa,Thailand,ZA,TH
+20,30,9213,South Africa,Singapore,ZA,SG
+20,31,10057,South Africa,Indonesia,ZA,ID
+20,32,10362,South Africa,Vietnam,ZA,VN
+20,33,9203,South Africa,Malaysia,ZA,MY
+20,34,10389,South Africa,Australia,ZA,AU
+20,35,11562,South Africa,New Zealand,ZA,NZ
+20,36,14024,South Africa,Fiji,ZA,FJ
+21,22,3391,Nigeria,Kenya,NG,KE
+21,23,3004,Nigeria,Morocco,NG,MA
+21,24,3492,Nigeria,Ethiopia,NG,ET
+21,25,9909,Nigeria,China,NG,CN
+21,26,12730,Nigeria,Japan,NG,JP
+21,27,7611,Nigeria,India,NG,IN
+21,28,11924,Nigeria,South Korea,NG,KR
+21,29,9977,Nigeria,Thailand,NG,TH
+21,30,10548,Nigeria,Singapore,NG,SG
+21,31,11695,Nigeria,Indonesia,NG,ID
+21,32,10783,Nigeria,Vietnam,NG,VN
+21,33,10295,Nigeria,Malaysia,NG,MY
+21,34,13956,Nigeria,Australia,NG,AU
+21,35,16225,Nigeria,New Zealand,NG,NZ
+21,36,18520,Nigeria,Fiji,NG,FJ
+22,23,5901,Kenya,Morocco,KE,MA
+22,24,1059,Kenya,Ethiopia,KE,ET
+22,25,7894,Kenya,China,KE,CN
+22,26,10936,Kenya,Japan,KE,JP
+22,27,5016,Kenya,India,KE,IN
+22,28,9997,Kenya,South Korea,KE,KR
+22,29,7138,Kenya,Thailand,KE,TH
+22,30,7330,Kenya,Singapore,KE,SG
+22,31,8453,Kenya,Indonesia,KE,ID
+22,32,7894,Kenya,Vietnam,KE,VN
+22,33,7133,Kenya,Malaysia,KE,MY
+22,34,10596,Kenya,Australia,KE,AU
+22,35,13736,Kenya,New Zealand,KE,NZ
+22,36,15233,Kenya,Fiji,KE,FJ
+23,24,5501,Morocco,Ethiopia,MA,ET
+23,25,9634,Morocco,China,MA,CN
+23,26,11637,Morocco,Japan,MA,JP
+23,27,8463,Morocco,India,MA,IN
+23,28,11139,Morocco,South Korea,MA,KR
+23,29,10708,Morocco,Thailand,MA,TH
+23,30,11888,Morocco,Singapore,MA,SG
+23,31,12947,Morocco,Indonesia,MA,ID
+23,32,11455,Morocco,Vietnam,MA,VN
+23,33,11540,Morocco,Malaysia,MA,MY
+23,34,16145,Morocco,Australia,MA,AU
+23,35,18987,Morocco,New Zealand,MA,NZ
+23,36,18366,Morocco,Fiji,MA,FJ
+24,25,7051,Ethiopia,China,ET,CN
+24,26,10095,Ethiopia,Japan,ET,JP
+24,27,4313,Ethiopia,India,ET,IN
+24,28,9169,Ethiopia,South Korea,ET,KR
+24,29,6590,Ethiopia,Thailand,ET,TH
+24,30,7057,Ethiopia,Singapore,ET,SG
+24,31,8204,Ethiopia,Indonesia,ET,ID
+24,32,7381,Ethiopia,Vietnam,ET,VN
+24,33,6806,Ethiopia,Malaysia,ET,MY
+24,34,10768,Ethiopia,Australia,ET,AU
+24,35,14318,Ethiopia,New Zealand,ET,NZ
+24,36,15340,Ethiopia,Fiji,ET,FJ
+25,26,3047,China,Japan,CN,JP
+25,27,2984,China,India,CN,IN
+25,28,2118,China,South Korea,CN,KR
+25,29,2246,China,Thailand,CN,TH
+25,30,3837,China,Singapore,CN,SG
+25,31,4198,China,Indonesia,CN,ID
+25,32,2458,China,Vietnam,CN,VN
+25,33,3527,China,Malaysia,CN,MY
+25,34,7474,China,Australia,CN,AU
+25,35,11167,China,New Zealand,CN,NZ
+25,36,9777,China,Fiji,CN,FJ
+26,27,5959,Japan,India,JP,IN
+26,28,943,Japan,South Korea,JP,KR
+26,29,4315,Japan,Thailand,JP,TH
+26,30,5250,Japan,Singapore,JP,SG
+26,31,4822,Japan,Indonesia,JP,ID
+26,32,3865,Japan,Vietnam,JP,VN
+26,33,5137,Japan,Malaysia,JP,MY
+26,34,6852,Japan,Australia,JP,AU
+26,35,9352,Japan,New Zealand,JP,NZ
+26,36,7311,Japan,Fiji,JP,FJ
+27,28,5017,India,South Korea,IN,KR
+27,29,2383,India,Thailand,IN,TH
+27,30,3444,India,Singapore,IN,SG
+27,31,4485,India,Indonesia,IN,ID
+27,32,3190,India,Vietnam,IN,VN
+27,33,3084,India,Malaysia,IN,MY
+27,34,7813,India,Australia,IN,AU
+27,35,11971,India,New Zealand,IN,NZ
+27,36,11605,India,Fiji,IN,FJ
+28,29,3462,South Korea,Thailand,KR,TH
+28,30,4567,South Korea,Singapore,KR,SG
+28,31,4325,South Korea,Indonesia,KR,ID
+28,32,3111,South Korea,Vietnam,KR,VN
+28,33,4405,South Korea,Malaysia,KR,MY
+28,34,6832,South Korea,Australia,KR,AU
+28,35,9800,South Korea,New Zealand,KR,NZ
+28,36,7970,South Korea,Fiji,KR,FJ
+29,30,1644,Thailand,Singapore,TH,SG
+29,31,2334,Thailand,Indonesia,TH,ID
+29,32,808,Thailand,Vietnam,TH,VN
+29,33,1301,Thailand,Malaysia,TH,MY
+29,34,5791,Thailand,Australia,TH,AU
+29,35,9863,Thailand,New Zealand,TH,NZ
+29,36,9230,Thailand,Fiji,TH,FJ
+30,31,1148,Singapore,Indonesia,SG,ID
+30,32,1495,Singapore,Vietnam,SG,VN
+30,33,378,Singapore,Malaysia,SG,MY
+30,34,4377,Singapore,Australia,SG,AU
+30,35,8531,Singapore,New Zealand,SG,NZ
+30,36,8389,Singapore,Fiji,SG,FJ
+31,32,1764,Indonesia,Vietnam,ID,VN
+31,33,1439,Indonesia,Malaysia,ID,MY
+31,34,3457,Indonesia,Australia,ID,AU
+31,35,7553,Indonesia,New Zealand,ID,NZ
+31,36,7249,Indonesia,Fiji,ID,FJ
+32,33,1295,Vietnam,Malaysia,VN,MY
+32,34,5173,Vietnam,Australia,VN,AU
+32,35,9164,Vietnam,New Zealand,VN,NZ
+32,36,8428,Vietnam,Fiji,VN,FJ
+33,34,4746,Malaysia,Australia,MY,AU
+33,35,8897,Malaysia,New Zealand,MY,NZ
+33,36,8685,Malaysia,Fiji,MY,FJ
+34,35,4158,Australia,New Zealand,AU,NZ
+34,36,4638,Australia,Fiji,AU,FJ
+35,36,2596,New Zealand,Fiji,NZ,FJ

@@ -1,0 +1,106 @@
+from,to,distance_km,from_name,to_name,from_code,to_code
+0,1,2253,Canada,United States,CA,US
+0,2,3760,Canada,Mexico,CA,MX
+0,3,5912,Canada,Guatemala,CA,GT
+0,4,6103,Canada,Costa Rica,CA,CR
+0,5,6472,Canada,Panama,CA,PA
+0,6,7819,Canada,Colombia,CA,CO
+0,7,8234,Canada,Venezuela,CA,VE
+0,8,9814,Canada,Brazil,CA,BR
+0,9,10456,Canada,Peru,CA,PE
+0,10,11238,Canada,Chile,CA,CL
+0,11,10892,Canada,Argentina,CA,AR
+0,12,6891,Canada,Cuba,CA,CU
+0,13,7234,Canada,Jamaica,CA,JM
+0,14,8123,Canada,Trinidad and Tobago,CA,TT
+1,2,1887,United States,Mexico,US,MX
+1,3,3156,United States,Guatemala,US,GT
+1,4,3421,United States,Costa Rica,US,CR
+1,5,3738,United States,Panama,US,PA
+1,6,4512,United States,Colombia,US,CO
+1,7,4389,United States,Venezuela,US,VE
+1,8,7601,United States,Brazil,US,BR
+1,9,6234,United States,Peru,US,PE
+1,10,8391,United States,Chile,US,CL
+1,11,8456,United States,Argentina,US,AR
+1,12,2145,United States,Cuba,US,CU
+1,13,2687,United States,Jamaica,US,JM
+1,14,3534,United States,Trinidad and Tobago,US,TT
+2,3,1245,Mexico,Guatemala,MX,GT
+2,4,2156,Mexico,Costa Rica,MX,CR
+2,5,2678,Mexico,Panama,MX,PA
+2,6,3789,Mexico,Colombia,MX,CO
+2,7,4234,Mexico,Venezuela,MX,VE
+2,8,6891,Mexico,Brazil,MX,BR
+2,9,5123,Mexico,Peru,MX,PE
+2,10,7234,Mexico,Chile,MX,CL
+2,11,7456,Mexico,Argentina,MX,AR
+2,12,1456,Mexico,Cuba,MX,CU
+2,13,2123,Mexico,Jamaica,MX,JM
+2,14,3456,Mexico,Trinidad and Tobago,MX,TT
+3,4,967,Guatemala,Costa Rica,GT,CR
+3,5,1534,Guatemala,Panama,GT,PA
+3,6,2156,Guatemala,Colombia,GT,CO
+3,7,2789,Guatemala,Venezuela,GT,VE
+3,8,5234,Guatemala,Brazil,GT,BR
+3,9,3891,Guatemala,Peru,GT,PE
+3,10,5912,Guatemala,Chile,GT,CL
+3,11,6123,Guatemala,Argentina,GT,AR
+3,12,1789,Guatemala,Cuba,GT,CU
+3,13,1923,Guatemala,Jamaica,GT,JM
+3,14,2834,Guatemala,Trinidad and Tobago,GT,TT
+4,5,612,Costa Rica,Panama,CR,PA
+4,6,1289,Costa Rica,Colombia,CR,CO
+4,7,1834,Costa Rica,Venezuela,CR,VE
+4,8,4456,Costa Rica,Brazil,CR,BR
+4,9,3123,Costa Rica,Peru,CR,PE
+4,10,5234,Costa Rica,Chile,CR,CL
+4,11,5456,Costa Rica,Argentina,CR,AR
+4,12,2234,Costa Rica,Cuba,CR,CU
+4,13,2456,Costa Rica,Jamaica,CR,JM
+4,14,2012,Costa Rica,Trinidad and Tobago,CR,TT
+5,6,834,Panama,Colombia,PA,CO
+5,7,1456,Panama,Venezuela,PA,VE
+5,8,3891,Panama,Brazil,PA,BR
+5,9,2567,Panama,Peru,PA,PE
+5,10,4678,Panama,Chile,PA,CL
+5,11,4912,Panama,Argentina,PA,AR
+5,12,2678,Panama,Cuba,PA,CU
+5,13,2834,Panama,Jamaica,PA,JM
+5,14,1734,Panama,Trinidad and Tobago,PA,TT
+6,7,1289,Colombia,Venezuela,CO,VE
+6,8,2834,Colombia,Brazil,CO,BR
+6,9,1456,Colombia,Peru,CO,PE
+6,10,3789,Colombia,Chile,CO,CL
+6,11,4123,Colombia,Argentina,CO,AR
+6,12,2912,Colombia,Cuba,CO,CU
+6,13,2456,Colombia,Jamaica,CO,JM
+6,14,1523,Colombia,Trinidad and Tobago,CO,TT
+7,8,2145,Venezuela,Brazil,VE,BR
+7,9,2678,Venezuela,Peru,VE,PE
+7,10,4891,Venezuela,Chile,VE,CL
+7,11,5234,Venezuela,Argentina,VE,AR
+7,12,3123,Venezuela,Cuba,VE,CU
+7,13,2567,Venezuela,Jamaica,VE,JM
+7,14,1012,Venezuela,Trinidad and Tobago,VE,TT
+8,9,3156,Brazil,Peru,BR,PE
+8,10,2891,Brazil,Chile,BR,CL
+8,11,3093,Brazil,Argentina,BR,AR
+8,12,5834,Brazil,Cuba,BR,CU
+8,13,5234,Brazil,Jamaica,BR,JM
+8,14,4123,Brazil,Trinidad and Tobago,BR,TT
+9,10,2453,Peru,Chile,PE,CL
+9,11,3234,Peru,Argentina,PE,AR
+9,12,4891,Peru,Cuba,PE,CU
+9,13,4567,Peru,Jamaica,PE,JM
+9,14,3891,Peru,Trinidad and Tobago,PE,TT
+10,11,1234,Chile,Argentina,CL,AR
+10,12,7234,Chile,Cuba,CL,CU
+10,13,6891,Chile,Jamaica,CL,JM
+10,14,6234,Chile,Trinidad and Tobago,CL,TT
+11,12,7456,Argentina,Cuba,AR,CU
+11,13,7123,Argentina,Jamaica,AR,JM
+11,14,6456,Argentina,Trinidad and Tobago,AR,TT
+12,13,734,Cuba,Jamaica,CU,JM
+12,14,2156,Cuba,Trinidad and Tobago,CU,TT
+13,14,1834,Jamaica,Trinidad and Tobago,JM,TT

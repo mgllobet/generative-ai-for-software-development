@@ -1,0 +1,136 @@
+node_id,country_name,country_code,continent,lat,lon
+0,Egypt,EG,Africa,26.8206,30.8025
+1,South Africa,ZA,Africa,-30.5595,22.9375
+2,Nigeria,NG,Africa,9.082,8.6753
+3,Kenya,KE,Africa,-0.0236,37.9062
+4,Morocco,MA,Africa,31.7917,-7.0926
+5,Ethiopia,ET,Africa,9.145,40.4897
+6,Algeria,DZ,Africa,28.0339,1.6596
+7,Tunisia,TN,Africa,33.8869,9.5375
+8,Libya,LY,Africa,26.3351,17.2283
+9,Ghana,GH,Africa,7.9465,-1.0232
+10,Senegal,SN,Africa,14.4974,-14.4524
+11,Tanzania,TZ,Africa,-6.369,34.8888
+12,Uganda,UG,Africa,1.3733,32.2903
+13,Cameroon,CM,Africa,7.3697,12.3547
+14,Zimbabwe,ZW,Africa,-19.0154,29.1549
+15,Angola,AO,Africa,-11.2027,17.8739
+16,Mozambique,MZ,Africa,-18.6657,35.5296
+17,Madagascar,MG,Africa,-18.7669,46.8691
+18,Botswana,BW,Africa,-22.3285,24.6849
+19,Namibia,NA,Africa,-22.9576,18.4904
+20,China,CN,Asia,35.8617,104.1954
+21,Japan,JP,Asia,36.2048,138.2529
+22,India,IN,Asia,20.5937,78.9629
+23,South Korea,KR,Asia,35.9078,127.7669
+24,Thailand,TH,Asia,15.87,100.9925
+25,Singapore,SG,Asia,1.3521,103.8198
+26,Indonesia,ID,Asia,-0.7893,113.9213
+27,Vietnam,VN,Asia,14.0583,108.2772
+28,Malaysia,MY,Asia,4.2105,101.9758
+29,Philippines,PH,Asia,12.8797,121.774
+30,Pakistan,PK,Asia,30.3753,69.3451
+31,Bangladesh,BD,Asia,23.685,90.3563
+32,Saudi Arabia,SA,Asia,23.8859,45.0792
+33,United Arab Emirates,AE,Asia,23.4241,53.8478
+34,Qatar,QA,Asia,25.3548,51.1839
+35,Kuwait,KW,Asia,29.3117,47.4818
+36,Oman,OM,Asia,21.4735,55.9754
+37,Israel,IL,Asia,31.0461,34.8516
+38,Turkey,TR,Asia,38.9637,35.2433
+39,Iran,IR,Asia,32.4279,53.688
+40,Iraq,IQ,Asia,33.2232,43.6793
+41,Jordan,JO,Asia,30.5852,36.2384
+42,Lebanon,LB,Asia,33.8547,35.8623
+43,Sri Lanka,LK,Asia,7.8731,80.7718
+44,Nepal,NP,Asia,28.3949,84.124
+45,Cambodia,KH,Asia,12.5657,104.991
+46,Laos,LA,Asia,19.8563,102.4955
+47,Myanmar,MM,Asia,21.9162,95.956
+48,Mongolia,MN,Asia,46.8625,103.8467
+49,Kazakhstan,KZ,Asia,48.0196,66.9237
+50,Uzbekistan,UZ,Asia,41.3775,64.5853
+51,Afghanistan,AF,Asia,33.9391,67.71
+52,Taiwan,TW,Asia,23.6978,120.9605
+53,Hong Kong,HK,Asia,22.3193,114.1694
+54,Macao,MO,Asia,22.1987,113.5439
+55,United Kingdom,GB,Europe,55.3781,-3.436
+56,France,FR,Europe,46.2276,2.2137
+57,Germany,DE,Europe,51.1657,10.4515
+58,Spain,ES,Europe,40.4637,-3.7492
+59,Italy,IT,Europe,41.8719,12.5674
+60,Netherlands,NL,Europe,52.1326,5.2913
+61,Switzerland,CH,Europe,46.8182,8.2275
+62,Poland,PL,Europe,51.9194,19.1451
+63,Sweden,SE,Europe,60.1282,18.6435
+64,Norway,NO,Europe,60.472,8.4689
+65,Denmark,DK,Europe,56.2639,9.5018
+66,Finland,FI,Europe,61.9241,25.7482
+67,Belgium,BE,Europe,50.5039,4.4699
+68,Austria,AT,Europe,47.5162,14.5501
+69,Portugal,PT,Europe,39.3999,-8.2245
+70,Greece,GR,Europe,39.0742,21.8243
+71,Czech Republic,CZ,Europe,49.8175,15.473
+72,Hungary,HU,Europe,47.1625,19.5033
+73,Romania,RO,Europe,45.9432,24.9668
+74,Ireland,IE,Europe,53.4129,-8.2439
+75,Croatia,HR,Europe,45.1,15.2
+76,Serbia,RS,Europe,44.0165,21.0059
+77,Bulgaria,BG,Europe,42.7339,25.4858
+78,Slovakia,SK,Europe,48.669,19.699
+79,Slovenia,SI,Europe,46.1512,14.9955
+80,Lithuania,LT,Europe,55.1694,23.8813
+81,Latvia,LV,Europe,56.8796,24.6032
+82,Estonia,EE,Europe,58.5953,25.0136
+83,Iceland,IS,Europe,64.9631,-19.0208
+84,Ukraine,UA,Europe,48.3794,31.1656
+85,Belarus,BY,Europe,53.7098,27.9534
+86,Russia,RU,Europe,61.524,105.3188
+87,Albania,AL,Europe,41.1533,20.1683
+88,Bosnia Herzegovina,BA,Europe,43.9159,17.6791
+89,North Macedonia,MK,Europe,41.6086,21.7453
+90,Moldova,MD,Europe,47.4116,28.3699
+91,Luxembourg,LU,Europe,49.8153,6.1296
+92,Malta,MT,Europe,35.9375,14.3754
+93,Cyprus,CY,Europe,35.1264,33.4299
+94,Montenegro,ME,Europe,42.7087,19.3744
+95,United States,US,North America,37.0902,-95.7129
+96,Canada,CA,North America,56.1304,-106.3468
+97,Mexico,MX,North America,23.6345,-102.5528
+98,Guatemala,GT,North America,15.7835,-90.2308
+99,Cuba,CU,North America,21.5218,-77.7812
+100,Honduras,HN,North America,15.2,-86.2419
+101,Nicaragua,NI,North America,12.8654,-85.2072
+102,Costa Rica,CR,North America,9.7489,-83.7534
+103,Panama,PA,North America,8.538,-80.7821
+104,Jamaica,JM,North America,18.1096,-77.2975
+105,Dominican Republic,DO,North America,18.7357,-70.1627
+106,Haiti,HT,North America,18.9712,-72.2852
+107,El Salvador,SV,North America,13.7942,-88.8965
+108,Belize,BZ,North America,17.1899,-88.4976
+109,Bahamas,BS,North America,25.0343,-77.3963
+110,Trinidad and Tobago,TT,North America,10.6918,-61.2225
+111,Barbados,BB,North America,13.1939,-59.5432
+112,Brazil,BR,South America,-14.235,-51.9253
+113,Argentina,AR,South America,-38.4161,-63.6167
+114,Chile,CL,South America,-35.6751,-71.543
+115,Colombia,CO,South America,4.5709,-74.2973
+116,Peru,PE,South America,-9.19,-75.0152
+117,Venezuela,VE,South America,6.4238,-66.5897
+118,Ecuador,EC,South America,-1.8312,-78.1834
+119,Bolivia,BO,South America,-16.2902,-63.5887
+120,Paraguay,PY,South America,-23.4425,-58.4438
+121,Uruguay,UY,South America,-32.5228,-55.7658
+122,Guyana,GY,South America,4.8604,-58.9302
+123,Suriname,SR,South America,3.9193,-56.0278
+124,Australia,AU,Oceania,-25.2744,133.7751
+125,New Zealand,NZ,Oceania,-40.9006,174.886
+126,Fiji,FJ,Oceania,-17.7134,178.065
+127,Papua New Guinea,PG,Oceania,-6.315,143.9555
+128,Samoa,WS,Oceania,-13.759,-172.1046
+129,Tonga,TO,Oceania,-21.1789,-175.1982
+130,Vanuatu,VU,Oceania,-15.3767,166.9592
+131,Solomon Islands,SB,Oceania,-9.6457,160.1562
+132,Palau,PW,Oceania,7.515,134.5825
+133,Micronesia,FM,Oceania,7.4256,150.5508
+134,Marshall Islands,MH,Oceania,7.1315,171.1845

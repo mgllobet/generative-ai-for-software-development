@@ -1,0 +1,22 @@
+from,to,distance_km,from_name,to_name
+0,1,7900,North America,South America
+0,2,6200,North America,Europe
+0,3,11500,North America,Africa
+0,4,10500,North America,Asia
+0,5,15000,North America,Australia
+0,6,13000,North America,Antarctica
+1,2,9500,South America,Europe
+1,3,6100,South America,Africa
+1,4,18000,South America,Asia
+1,5,14500,South America,Australia
+1,6,5900,South America,Antarctica
+2,3,4200,Europe,Africa
+2,4,6800,Europe,Asia
+2,5,16500,Europe,Australia
+2,6,14000,Europe,Antarctica
+3,4,8000,Africa,Asia
+3,5,11000,Africa,Australia
+3,6,11200,Africa,Antarctica
+4,5,7500,Asia,Australia
+4,6,12500,Asia,Antarctica
+5,6,6700,Australia,Antarctica

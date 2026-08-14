@@ -1,0 +1,596 @@
+from,to,distance_km,from_name,to_name,from_code,to_code
+0,1,732,Canada,United States,CA,US
+0,2,3603,Canada,Mexico,CA,MX
+0,3,3358,Canada,Belize,CA,BZ
+0,4,3694,Canada,Guatemala,CA,GT
+0,5,3649,Canada,Honduras,CA,HN
+0,6,3750,Canada,El Salvador,CA,SV
+0,7,3835,Canada,Nicaragua,CA,NI
+0,8,4027,Canada,Costa Rica,CA,CR
+0,9,4068,Canada,Panama,CA,PA
+0,10,2552,Canada,Cuba,CA,CU
+0,11,3053,Canada,Jamaica,CA,JM
+0,12,2999,Canada,Haiti,CA,HT
+0,13,3042,Canada,Dominican Republic,CA,DO
+0,14,3125,Canada,Puerto Rico,CA,PR
+0,15,4100,Canada,Trinidad and Tobago,CA,TT
+0,16,3901,Canada,Barbados,CA,BB
+0,17,2272,Canada,The Bahamas,CA,BS
+0,18,3938,Canada,Grenada,CA,GD
+0,19,3756,Canada,Saint Lucia,CA,LC
+0,20,3838,Canada,Saint Vincent,CA,VC
+0,21,3399,Canada,Antigua and Barbuda,CA,AG
+0,22,3606,Canada,Dominica,CA,DM
+0,23,4529,Canada,Colombia,CA,CO
+0,24,3974,Canada,Venezuela,CA,VE
+0,25,4615,Canada,Guyana,CA,GY
+0,26,4825,Canada,Suriname,CA,SR
+0,27,7363,Canada,Brazil,CA,BR
+0,28,5078,Canada,Ecuador,CA,EC
+0,29,6391,Canada,Peru,CA,PE
+0,30,6927,Canada,Bolivia,CA,BO
+0,31,8784,Canada,Chile,CA,CL
+0,32,9067,Canada,Argentina,CA,AR
+0,33,8071,Canada,Paraguay,CA,PY
+0,34,9145,Canada,Uruguay,CA,UY
+1,2,3031,United States,Mexico,US,MX
+1,3,2662,United States,Belize,US,BZ
+1,4,3003,United States,Guatemala,US,GT
+1,5,2935,United States,Honduras,US,HN
+1,6,3048,United States,El Salvador,US,SV
+1,7,3114,United States,Nicaragua,US,NI
+1,8,3297,United States,Costa Rica,US,CR
+1,9,3336,United States,Panama,US,PA
+1,10,1827,United States,Cuba,US,CU
+1,11,2328,United States,Jamaica,US,JM
+1,12,2304,United States,Haiti,US,HT
+1,13,2372,United States,Dominican Republic,US,DO
+1,14,2505,United States,Puerto Rico,US,PR
+1,15,3507,United States,Trinidad and Tobago,US,TT
+1,16,3342,United States,Barbados,US,BB
+1,17,1542,United States,The Bahamas,US,BS
+1,18,3345,United States,Grenada,US,GD
+1,19,3184,United States,Saint Lucia,US,LC
+1,20,3258,United States,Saint Vincent,US,VC
+1,21,2834,United States,Antigua and Barbuda,US,AG
+1,22,3037,United States,Dominica,US,DM
+1,23,3814,United States,Colombia,US,CO
+1,24,3317,United States,Venezuela,US,VE
+1,25,4041,United States,Guyana,US,GY
+1,26,4280,United States,Suriname,US,SR
+1,27,6797,United States,Brazil,US,BR
+1,28,4348,United States,Ecuador,US,EC
+1,29,5665,United States,Peru,US,PE
+1,30,6230,United States,Bolivia,US,BO
+1,31,8072,United States,Chile,US,CL
+1,32,8396,United States,Argentina,US,AR
+1,33,7417,United States,Paraguay,US,PY
+1,34,8483,United States,Uruguay,US,UY
+2,3,1121,Mexico,Belize,MX,BZ
+2,4,1060,Mexico,Guatemala,MX,GT
+2,5,1405,Mexico,Honduras,MX,HN
+2,6,1233,Mexico,El Salvador,MX,SV
+2,7,1600,Mexico,Nicaragua,MX,NI
+2,8,1930,Mexico,Costa Rica,MX,CR
+2,9,2408,Mexico,Panama,MX,PA
+2,10,1783,Mexico,Cuba,MX,CU
+2,11,2356,Mexico,Jamaica,MX,JM
+2,12,2818,Mexico,Haiti,MX,HT
+2,13,3069,Mexico,Dominican Republic,MX,DO
+2,14,3469,Mexico,Puerto Rico,MX,PR
+2,15,4175,Mexico,Trinidad and Tobago,MX,TT
+2,16,4267,Mexico,Barbados,MX,BB
+2,17,2319,Mexico,The Bahamas,MX,BS
+2,18,4075,Mexico,Grenada,MX,GD
+2,19,4098,Mexico,Saint Lucia,MX,LC
+2,20,4097,Mexico,Saint Vincent,MX,VC
+2,21,3937,Mexico,Antigua and Barbuda,MX,AG
+2,22,4024,Mexico,Dominica,MX,DM
+2,23,3170,Mexico,Colombia,MX,CO
+2,24,3595,Mexico,Venezuela,MX,VE
+2,25,4639,Mexico,Guyana,MX,GY
+2,26,4981,Mexico,Suriname,MX,SR
+2,27,6835,Mexico,Brazil,MX,BR
+2,28,3135,Mexico,Ecuador,MX,EC
+2,29,4255,Mexico,Peru,MX,PE
+2,30,5237,Mexico,Bolivia,MX,BO
+2,31,6610,Mexico,Chile,MX,CL
+2,32,7392,Mexico,Argentina,MX,AR
+2,33,6699,Mexico,Paraguay,MX,PY
+2,34,7554,Mexico,Uruguay,MX,UY
+3,4,345,Belize,Guatemala,BZ,GT
+3,5,392,Belize,Honduras,BZ,HN
+3,6,398,Belize,El Salvador,BZ,SV
+3,7,632,Belize,Nicaragua,BZ,NI
+3,8,957,Belize,Costa Rica,BZ,CR
+3,9,1358,Belize,Panama,BZ,PA
+3,10,932,Belize,Cuba,BZ,CU
+3,11,1270,Belize,Jamaica,BZ,JM
+3,12,1746,Belize,Haiti,BZ,HT
+3,13,1996,Belize,Dominican Republic,BZ,DO
+3,14,2399,Belize,Puerto Rico,BZ,PR
+3,15,3056,Belize,Trinidad and Tobago,BZ,TT
+3,16,3158,Belize,Barbados,BZ,BB
+3,17,1460,Belize,The Bahamas,BZ,BS
+3,18,2959,Belize,Grenada,BZ,GD
+3,19,2992,Belize,Saint Lucia,BZ,LC
+3,20,2986,Belize,Saint Vincent,BZ,VC
+3,21,2856,Belize,Antigua and Barbuda,BZ,AG
+3,22,2927,Belize,Dominica,BZ,DM
+3,23,2121,Belize,Colombia,BZ,CO
+3,24,2474,Belize,Venezuela,BZ,VE
+3,25,3518,Belize,Guyana,BZ,GY
+3,26,3860,Belize,Suriname,BZ,SR
+3,27,5793,Belize,Brazil,BZ,BR
+3,28,2242,Belize,Ecuador,BZ,EC
+3,29,3502,Belize,Peru,BZ,PE
+3,30,4379,Belize,Bolivia,BZ,BO
+3,31,5955,Belize,Chile,BZ,CL
+3,32,6599,Belize,Argentina,BZ,AR
+3,33,5809,Belize,Paraguay,BZ,PY
+3,34,6743,Belize,Uruguay,BZ,UY
+4,5,364,Guatemala,Honduras,GT,HN
+4,6,173,Guatemala,El Salvador,GT,SV
+4,7,540,Guatemala,Nicaragua,GT,NI
+4,8,871,Guatemala,Costa Rica,GT,CR
+4,9,1350,Guatemala,Panama,GT,PA
+4,10,1272,Guatemala,Cuba,GT,CU
+4,11,1509,Guatemala,Jamaica,GT,JM
+4,12,1987,Guatemala,Haiti,GT,HT
+4,13,2232,Guatemala,Dominican Republic,GT,DO
+4,14,2633,Guatemala,Puerto Rico,GT,PR
+4,15,3204,Guatemala,Trinidad and Tobago,GT,TT
+4,16,3336,Guatemala,Barbados,GT,BB
+4,17,1791,Guatemala,The Bahamas,GT,BS
+4,18,3122,Guatemala,Grenada,GT,GD
+4,19,3178,Guatemala,Saint Lucia,GT,LC
+4,20,3162,Guatemala,Saint Vincent,GT,VC
+4,21,3074,Guatemala,Antigua and Barbuda,GT,AG
+4,22,3126,Guatemala,Dominica,GT,DM
+4,23,2110,Guatemala,Colombia,GT,CO
+4,24,2601,Guatemala,Venezuela,GT,VE
+4,25,3635,Guatemala,Guyana,GT,GY
+4,26,3978,Guatemala,Suriname,GT,SR
+4,27,5775,Guatemala,Brazil,GT,BR
+4,28,2113,Guatemala,Ecuador,GT,EC
+4,29,3316,Guatemala,Peru,GT,PE
+4,30,4243,Guatemala,Bolivia,GT,BO
+4,31,5745,Guatemala,Chile,GT,CL
+4,32,6441,Guatemala,Argentina,GT,AR
+4,33,5693,Guatemala,Paraguay,GT,PY
+4,34,6593,Guatemala,Uruguay,GT,UY
+5,6,224,Honduras,El Salvador,HN,SV
+5,7,239,Honduras,Nicaragua,HN,NI
+5,8,569,Honduras,Costa Rica,HN,CR
+5,9,1006,Honduras,Panama,HN,PA
+5,10,1126,Honduras,Cuba,HN,CU
+5,11,1190,Honduras,Jamaica,HN,JM
+5,12,1663,Honduras,Haiti,HN,HT
+5,13,1903,Honduras,Dominican Republic,HN,DO
+5,14,2299,Honduras,Puerto Rico,HN,PR
+5,15,2841,Honduras,Trinidad and Tobago,HN,TT
+5,16,2978,Honduras,Barbados,HN,BB
+5,17,1591,Honduras,The Bahamas,HN,BS
+5,18,2761,Honduras,Grenada,HN,GD
+5,19,2823,Honduras,Saint Lucia,HN,LC
+5,20,2804,Honduras,Saint Vincent,HN,VC
+5,21,2731,Honduras,Antigua and Barbuda,HN,AG
+5,22,2775,Honduras,Dominica,HN,DM
+5,23,1772,Honduras,Colombia,HN,CO
+5,24,2237,Honduras,Venezuela,HN,VE
+5,25,3270,Honduras,Guyana,HN,GY
+5,26,3613,Honduras,Suriname,HN,SR
+5,27,5445,Honduras,Brazil,HN,BR
+5,28,1851,Honduras,Ecuador,HN,EC
+5,29,3110,Honduras,Peru,HN,PE
+5,30,3989,Honduras,Bolivia,HN,BO
+5,31,5565,Honduras,Chile,HN,CL
+5,32,6207,Honduras,Argentina,HN,AR
+5,33,5423,Honduras,Paraguay,HN,PY
+5,34,6351,Honduras,Uruguay,HN,UY
+6,7,367,El Salvador,Nicaragua,SV,NI
+6,8,697,El Salvador,Costa Rica,SV,CR
+6,9,1179,El Salvador,Panama,SV,PA
+6,10,1272,El Salvador,Cuba,SV,CU
+6,11,1411,El Salvador,Jamaica,SV,JM
+6,12,1885,El Salvador,Haiti,SV,HT
+6,13,2126,El Salvador,Dominican Republic,SV,DO
+6,14,2523,El Salvador,Puerto Rico,SV,PR
+6,15,3059,El Salvador,Trinidad and Tobago,SV,TT
+6,16,3200,El Salvador,Barbados,SV,BB
+6,17,1766,El Salvador,The Bahamas,SV,BS
+6,18,2981,El Salvador,Grenada,SV,GD
+6,19,3046,El Salvador,Saint Lucia,SV,LC
+6,20,3026,El Salvador,Saint Vincent,SV,VC
+6,21,2956,El Salvador,Antigua and Barbuda,SV,AG
+6,22,2999,El Salvador,Dominica,SV,DM
+6,23,1937,El Salvador,Colombia,SV,CO
+6,24,2451,El Salvador,Venezuela,SV,VE
+6,25,3480,El Salvador,Guyana,SV,GY
+6,26,3823,El Salvador,Suriname,SV,SR
+6,27,5601,El Salvador,Brazil,SV,BR
+6,28,1944,El Salvador,Ecuador,SV,EC
+6,29,3161,El Salvador,Peru,SV,PE
+6,30,4077,El Salvador,Bolivia,SV,BO
+6,31,5598,El Salvador,Chile,SV,CL
+6,32,6280,El Salvador,Argentina,SV,AR
+6,33,5524,El Salvador,Paraguay,SV,PY
+6,34,6430,El Salvador,Uruguay,SV,UY
+7,8,337,Nicaragua,Costa Rica,NI,CR
+7,9,812,Nicaragua,Panama,NI,PA
+7,10,1289,Nicaragua,Cuba,NI,CU
+7,11,1204,Nicaragua,Jamaica,NI,JM
+7,12,1657,Nicaragua,Haiti,NI,HT
+7,13,1885,Nicaragua,Dominican Republic,NI,DO
+7,14,2269,Nicaragua,Puerto Rico,NI,PR
+7,15,2730,Nicaragua,Trinidad and Tobago,NI,TT
+7,16,2889,Nicaragua,Barbados,NI,BB
+7,17,1710,Nicaragua,The Bahamas,NI,BS
+7,18,2661,Nicaragua,Grenada,NI,GD
+7,19,2741,Nicaragua,Saint Lucia,NI,LC
+7,20,2715,Nicaragua,Saint Vincent,NI,VC
+7,21,2680,Nicaragua,Antigua and Barbuda,NI,AG
+7,22,2705,Nicaragua,Dominica,NI,DM
+7,23,1570,Nicaragua,Colombia,NI,CO
+7,24,2115,Nicaragua,Venezuela,NI,VE
+7,25,3134,Nicaragua,Guyana,NI,GY
+7,26,3475,Nicaragua,Suriname,NI,SR
+7,27,5236,Nicaragua,Brazil,NI,BR
+7,28,1613,Nicaragua,Ecuador,NI,EC
+7,29,2871,Nicaragua,Peru,NI,PE
+7,30,3752,Nicaragua,Bolivia,NI,BO
+7,31,5328,Nicaragua,Chile,NI,CL
+7,32,5968,Nicaragua,Argentina,NI,AR
+7,33,5188,Nicaragua,Paraguay,NI,PY
+7,34,6113,Nicaragua,Uruguay,NI,UY
+8,9,512,Costa Rica,Panama,CR,PA
+8,10,1477,Costa Rica,Cuba,CR,CU
+8,11,1191,Costa Rica,Jamaica,CR,JM
+8,12,1592,Costa Rica,Haiti,CR,HT
+8,13,1797,Costa Rica,Dominican Republic,CR,DO
+8,14,2156,Costa Rica,Puerto Rico,CR,PR
+8,15,2502,Costa Rica,Trinidad and Tobago,CR,TT
+8,16,2688,Costa Rica,Barbados,CR,BB
+8,17,1822,Costa Rica,The Bahamas,CR,BS
+8,18,2449,Costa Rica,Grenada,CR,GD
+8,19,2552,Costa Rica,Saint Lucia,CR,LC
+8,20,2515,Costa Rica,Saint Vincent,CR,VC
+8,21,2531,Costa Rica,Antigua and Barbuda,CR,AG
+8,22,2533,Costa Rica,Dominica,CR,DM
+8,23,1247,Costa Rica,Colombia,CR,CO
+8,24,1881,Costa Rica,Venezuela,CR,VE
+8,25,2873,Costa Rica,Guyana,CR,GY
+8,26,3212,Costa Rica,Suriname,CR,SR
+8,27,4904,Costa Rica,Brazil,CR,BR
+8,28,1284,Costa Rica,Ecuador,CR,EC
+8,29,2564,Costa Rica,Peru,CR,PE
+8,30,3422,Costa Rica,Bolivia,CR,BO
+8,31,5028,Costa Rica,Chile,CR,CL
+8,32,5643,Costa Rica,Argentina,CR,AR
+8,33,4854,Costa Rica,Paraguay,CR,PY
+8,34,5786,Costa Rica,Uruguay,CR,UY
+9,10,1600,Panama,Cuba,PA,CU
+9,11,1042,Panama,Jamaica,PA,JM
+9,12,1321,Panama,Haiti,PA,HT
+9,13,1478,Panama,Dominican Republic,PA,DO
+9,14,1790,Panama,Puerto Rico,PA,PR
+9,15,2013,Panama,Trinidad and Tobago,PA,TT
+9,16,2219,Panama,Barbados,PA,BB
+9,17,1798,Panama,The Bahamas,PA,BS
+9,18,1972,Panama,Grenada,PA,GD
+9,19,2094,Panama,Saint Lucia,PA,LC
+9,20,2048,Panama,Saint Vincent,PA,VC
+9,21,2115,Panama,Antigua and Barbuda,PA,AG
+9,22,2091,Panama,Dominica,PA,DM
+9,23,766,Panama,Colombia,PA,CO
+9,24,1392,Panama,Venezuela,PA,VE
+9,25,2365,Panama,Guyana,PA,GY
+9,26,2703,Panama,Suriname,PA,SR
+9,27,4440,Panama,Brazil,PA,BR
+9,28,1025,Panama,Ecuador,PA,EC
+9,29,2354,Panama,Peru,PA,PE
+9,30,3097,Panama,Bolivia,PA,BO
+9,31,4810,Panama,Chile,PA,CL
+9,32,5333,Panama,Argentina,PA,AR
+9,33,4488,Panama,Paraguay,PA,PY
+9,34,5462,Panama,Uruguay,PA,UY
+10,11,814,Cuba,Jamaica,CU,JM
+10,12,1159,Cuba,Haiti,CU,HT
+10,13,1390,Cuba,Dominican Republic,CU,DO
+10,14,1766,Cuba,Puerto Rico,CU,PR
+10,15,2634,Cuba,Trinidad and Tobago,CU,TT
+10,16,2644,Cuba,Barbados,CU,BB
+10,17,547,Cuba,The Bahamas,CU,BS
+10,18,2502,Cuba,Grenada,CU,GD
+10,19,2466,Cuba,Saint Lucia,CU,LC
+10,20,2488,Cuba,Saint Vincent,CU,VC
+10,21,2240,Cuba,Antigua and Barbuda,CU,AG
+10,22,2364,Cuba,Dominica,CU,DM
+10,23,2231,Cuba,Colombia,CU,CO
+10,24,2160,Cuba,Venezuela,CU,VE
+10,25,3161,Cuba,Guyana,CU,GY
+10,26,3485,Cuba,Suriname,CU,SR
+10,27,5725,Cuba,Brazil,CU,BR
+10,28,2624,Cuba,Ecuador,CU,EC
+10,29,3952,Cuba,Peru,CU,PE
+10,30,4668,Cuba,Bolivia,CU,BO
+10,31,6410,Cuba,Chile,CU,CL
+10,32,6899,Cuba,Argentina,CU,AR
+10,33,6006,Cuba,Paraguay,CU,PY
+10,34,7018,Cuba,Uruguay,CU,UY
+11,12,478,Jamaica,Haiti,JM,HT
+11,13,726,Jamaica,Dominican Republic,JM,DO
+11,14,1129,Jamaica,Puerto Rico,JM,PR
+11,15,1861,Jamaica,Trinidad and Tobago,JM,TT
+11,16,1917,Jamaica,Barbados,JM,BB
+11,17,787,Jamaica,The Bahamas,JM,BS
+11,18,1743,Jamaica,Grenada,JM,GD
+11,19,1745,Jamaica,Saint Lucia,JM,LC
+11,20,1750,Jamaica,Saint Vincent,JM,VC
+11,21,1586,Jamaica,Antigua and Barbuda,JM,AG
+11,22,1667,Jamaica,Dominica,JM,DM
+11,23,1503,Jamaica,Colombia,JM,CO
+11,24,1352,Jamaica,Venezuela,JM,VE
+11,25,2371,Jamaica,Guyana,JM,GY
+11,26,2703,Jamaica,Suriname,JM,SR
+11,27,4911,Jamaica,Brazil,JM,BR
+11,28,2026,Jamaica,Ecuador,JM,EC
+11,29,3337,Jamaica,Peru,JM,PE
+11,30,3948,Jamaica,Bolivia,JM,BO
+11,31,5754,Jamaica,Chile,JM,CL
+11,32,6161,Jamaica,Argentina,JM,AR
+11,33,5238,Jamaica,Paraguay,JM,PY
+11,34,6270,Jamaica,Uruguay,JM,UY
+12,13,250,Haiti,Dominican Republic,HT,DO
+12,14,653,Haiti,Puerto Rico,HT,PR
+12,15,1480,Haiti,Trinidad and Tobago,HT,TT
+12,16,1488,Haiti,Barbados,HT,BB
+12,17,887,Haiti,The Bahamas,HT,BS
+12,18,1344,Haiti,Grenada,HT,GD
+12,19,1310,Haiti,Saint Lucia,HT,LC
+12,20,1329,Haiti,Saint Vincent,HT,VC
+12,21,1118,Haiti,Antigua and Barbuda,HT,AG
+12,22,1217,Haiti,Dominica,HT,DM
+12,23,1555,Haiti,Colombia,HT,CO
+12,24,1073,Haiti,Venezuela,HT,VE
+12,25,2016,Haiti,Guyana,HT,GY
+12,26,2333,Haiti,Suriname,HT,SR
+12,27,4666,Haiti,Brazil,HT,BR
+12,28,2193,Haiti,Ecuador,HT,EC
+12,29,3446,Haiti,Peru,HT,PE
+12,30,3928,Haiti,Bolivia,HT,BO
+12,31,5789,Haiti,Chile,HT,CL
+12,32,6095,Haiti,Argentina,HT,AR
+12,33,5130,Haiti,Paraguay,HT,PY
+12,34,6188,Haiti,Uruguay,HT,UY
+13,14,403,Dominican Republic,Puerto Rico,DO,PR
+13,15,1275,Dominican Republic,Trinidad and Tobago,DO,TT
+13,16,1255,Dominican Republic,Barbados,DO,BB
+13,17,1059,Dominican Republic,The Bahamas,DO,BS
+13,18,1131,Dominican Republic,Grenada,DO,GD
+13,19,1076,Dominican Republic,Saint Lucia,DO,LC
+13,20,1103,Dominican Republic,Saint Vincent,DO,VC
+13,21,869,Dominican Republic,Antigua and Barbuda,DO,AG
+13,22,975,Dominican Republic,Dominica,DO,DM
+13,23,1596,Dominican Republic,Colombia,DO,CO
+13,24,947,Dominican Republic,Venezuela,DO,VE
+13,25,1820,Dominican Republic,Guyana,DO,GY
+13,26,2126,Dominican Republic,Suriname,DO,SR
+13,27,4512,Dominican Republic,Brazil,DO,BR
+13,28,2275,Dominican Republic,Ecuador,DO,EC
+13,29,3483,Dominican Republic,Peru,DO,PE
+13,30,3895,Dominican Republic,Bolivia,DO,BO
+13,31,5775,Dominican Republic,Chile,DO,CL
+13,32,6028,Dominican Republic,Argentina,DO,AR
+13,33,5045,Dominican Republic,Paraguay,DO,PY
+13,34,6111,Dominican Republic,Uruguay,DO,UY
+14,15,1011,Puerto Rico,Trinidad and Tobago,PR,TT
+14,16,915,Puerto Rico,Barbados,PR,BB
+14,17,1374,Puerto Rico,The Bahamas,PR,BS
+14,18,852,Puerto Rico,Grenada,PR,GD
+14,19,737,Puerto Rico,Saint Lucia,PR,LC
+14,20,787,Puerto Rico,Saint Vincent,PR,VC
+14,21,474,Puerto Rico,Antigua and Barbuda,PR,AG
+14,22,612,Puerto Rico,Dominica,PR,DM
+14,23,1757,Puerto Rico,Colombia,PR,CO
+14,24,892,Puerto Rico,Venezuela,PR,VE
+14,25,1556,Puerto Rico,Guyana,PR,GY
+14,26,1834,Puerto Rico,Suriname,PR,SR
+14,27,4301,Puerto Rico,Brazil,PR,BR
+14,28,2474,Puerto Rico,Ecuador,PR,EC
+14,29,3598,Puerto Rico,Peru,PR,PE
+14,30,3894,Puerto Rico,Bolivia,PR,BO
+14,31,5792,Puerto Rico,Chile,PR,CL
+14,32,5957,Puerto Rico,Argentina,PR,AR
+14,33,4949,Puerto Rico,Paraguay,PR,PY
+14,34,6026,Puerto Rico,Uruguay,PR,UY
+15,16,319,Trinidad and Tobago,Barbados,TT,BB
+15,17,2334,Trinidad and Tobago,The Bahamas,TT,BS
+15,18,162,Trinidad and Tobago,Grenada,TT,GD
+15,19,369,Trinidad and Tobago,Saint Lucia,TT,LC
+15,20,274,Trinidad and Tobago,Saint Vincent,TT,VC
+15,21,718,Trinidad and Tobago,Antigua and Barbuda,TT,AG
+15,22,512,Trinidad and Tobago,Dominica,TT,DM
+15,23,1563,Trinidad and Tobago,Colombia,TT,CO
+15,24,621,Trinidad and Tobago,Venezuela,TT,VE
+15,25,548,Trinidad and Tobago,Guyana,TT,GY
+15,26,853,Trinidad and Tobago,Suriname,TT,SR
+15,27,3292,Trinidad and Tobago,Brazil,TT,BR
+15,28,2257,Trinidad and Tobago,Ecuador,TT,EC
+15,29,3073,Trinidad and Tobago,Peru,TT,PE
+15,30,3118,Trinidad and Tobago,Bolivia,TT,BO
+15,31,5009,Trinidad and Tobago,Chile,TT,CL
+15,32,5045,Trinidad and Tobago,Argentina,TT,AR
+15,33,4017,Trinidad and Tobago,Paraguay,TT,PY
+15,34,5097,Trinidad and Tobago,Uruguay,TT,UY
+16,17,2287,Barbados,The Bahamas,BB,BS
+16,18,258,Barbados,Grenada,BB,GD
+16,19,179,Barbados,Saint Lucia,BB,LC
+16,20,174,Barbados,Saint Vincent,BB,VC
+16,21,508,Barbados,Antigua and Barbuda,BB,AG
+16,22,310,Barbados,Dominica,BB,DM
+16,23,1840,Barbados,Colombia,BB,CO
+16,24,844,Barbados,Venezuela,BB,VE
+16,25,718,Barbados,Guyana,BB,GY
+16,26,939,Barbados,Suriname,BB,SR
+16,27,3463,Barbados,Brazil,BB,BR
+16,28,2549,Barbados,Ecuador,BB,EC
+16,29,3392,Barbados,Peru,BB,PE
+16,30,3422,Barbados,Bolivia,BB,BO
+16,31,5306,Barbados,Chile,BB,CL
+16,32,5305,Barbados,Argentina,BB,AR
+16,33,4271,Barbados,Paraguay,BB,PY
+16,34,5349,Barbados,Uruguay,BB,UY
+17,18,2187,The Bahamas,Grenada,BS,GD
+17,19,2108,The Bahamas,Saint Lucia,BS,LC
+17,20,2148,The Bahamas,Saint Vincent,BS,VC
+17,21,1835,The Bahamas,Antigua and Barbuda,BS,AG
+17,22,1987,The Bahamas,Dominica,BS,DM
+17,23,2287,The Bahamas,Colombia,BS,CO
+17,24,1960,The Bahamas,Venezuela,BS,VE
+17,25,2880,The Bahamas,Guyana,BS,GY
+17,26,3183,The Bahamas,Suriname,BS,SR
+17,27,5554,The Bahamas,Brazil,BS,BR
+17,28,2806,The Bahamas,Ecuador,BS,EC
+17,29,4123,The Bahamas,Peru,BS,PE
+17,30,4725,The Bahamas,Bolivia,BS,BO
+17,31,6541,The Bahamas,Chile,BS,CL
+17,32,6927,The Bahamas,Argentina,BS,AR
+17,33,5985,The Bahamas,Paraguay,BS,PY
+17,34,7029,The Bahamas,Uruguay,BS,UY
+18,19,232,Grenada,Saint Lucia,GD,LC
+18,20,135,Grenada,Saint Vincent,GD,VC
+18,21,564,Grenada,Antigua and Barbuda,GD,AG
+18,22,362,Grenada,Dominica,GD,DM
+18,23,1581,Grenada,Colombia,GD,CO
+18,24,588,Grenada,Venezuela,GD,VE
+18,25,704,Grenada,Guyana,GD,GY
+18,26,996,Grenada,Suriname,GD,SR
+18,27,3453,Grenada,Brazil,GD,BR
+18,28,2292,Grenada,Ecuador,GD,EC
+18,29,3167,Grenada,Peru,GD,PE
+18,30,3252,Grenada,Bolivia,GD,BO
+18,31,5147,Grenada,Chile,GD,CL
+18,32,5200,Grenada,Argentina,GD,AR
+18,33,4174,Grenada,Paraguay,GD,PY
+18,34,5254,Grenada,Uruguay,GD,UY
+19,20,98,Saint Lucia,Saint Vincent,LC,VC
+19,21,358,Saint Lucia,Antigua and Barbuda,LC,AG
+19,22,149,Saint Lucia,Dominica,LC,DM
+19,23,1767,Saint Lucia,Colombia,LC,CO
+19,24,753,Saint Lucia,Venezuela,LC,VE
+19,25,859,Saint Lucia,Guyana,LC,GY
+19,26,1106,Saint Lucia,Suriname,LC,SR
+19,27,3615,Saint Lucia,Brazil,LC,BR
+19,28,2488,Saint Lucia,Ecuador,LC,EC
+19,29,3394,Saint Lucia,Peru,LC,PE
+19,30,3482,Saint Lucia,Bolivia,LC,BO
+19,31,5376,Saint Lucia,Chile,LC,CL
+19,32,5412,Saint Lucia,Argentina,LC,AR
+19,33,4382,Saint Lucia,Paraguay,LC,PY
+19,34,5462,Saint Lucia,Uruguay,LC,UY
+20,21,446,Saint Vincent,Antigua and Barbuda,VC,AG
+20,22,238,Saint Vincent,Dominica,VC,DM
+20,23,1694,Saint Vincent,Colombia,VC,CO
+20,24,685,Saint Vincent,Venezuela,VC,VE
+20,25,782,Saint Vincent,Guyana,VC,GY
+20,26,1046,Saint Vincent,Suriname,VC,SR
+20,27,3539,Saint Vincent,Brazil,VC,BR
+20,28,2410,Saint Vincent,Ecuador,VC,EC
+20,29,3301,Saint Vincent,Peru,VC,PE
+20,30,3384,Saint Vincent,Bolivia,VC,BO
+20,31,5278,Saint Vincent,Chile,VC,CL
+20,32,5319,Saint Vincent,Argentina,VC,AR
+20,33,4290,Saint Vincent,Paraguay,VC,PY
+20,34,5370,Saint Vincent,Uruguay,VC,UY
+21,22,208,Antigua and Barbuda,Dominica,AG,DM
+21,23,1918,Antigua and Barbuda,Colombia,AG,CO
+21,24,918,Antigua and Barbuda,Venezuela,AG,VE
+21,25,1216,Antigua and Barbuda,Guyana,AG,GY
+21,26,1447,Antigua and Barbuda,Suriname,AG,SR
+21,27,3969,Antigua and Barbuda,Brazil,AG,BR
+21,28,2649,Antigua and Barbuda,Ecuador,AG,EC
+21,29,3648,Antigua and Barbuda,Peru,AG,PE
+21,30,3802,Antigua and Barbuda,Bolivia,AG,BO
+21,31,5701,Antigua and Barbuda,Chile,AG,CL
+21,32,5763,Antigua and Barbuda,Argentina,AG,AR
+21,33,4736,Antigua and Barbuda,Paraguay,AG,PY
+21,34,5816,Antigua and Barbuda,Uruguay,AG,UY
+22,23,1819,Dominica,Colombia,DM,CO
+22,24,802,Dominica,Venezuela,DM,VE
+22,25,1008,Dominica,Guyana,DM,GY
+22,26,1248,Dominica,Suriname,DM,SR
+22,27,3763,Dominica,Brazil,DM,BR
+22,28,2546,Dominica,Ecuador,DM,EC
+22,29,3495,Dominica,Peru,DM,PE
+22,30,3613,Dominica,Bolivia,DM,BO
+22,31,5509,Dominica,Chile,DM,CL
+22,32,5558,Dominica,Argentina,DM,AR
+22,33,4529,Dominica,Paraguay,DM,PY
+22,34,5609,Dominica,Uruguay,DM,UY
+23,24,1017,Colombia,Venezuela,CO,VE
+23,25,1776,Colombia,Guyana,CO,GY
+23,26,2092,Colombia,Suriname,CO,SR
+23,27,3673,Colombia,Brazil,CO,BR
+23,28,730,Colombia,Ecuador,CO,EC
+23,29,1892,Colombia,Peru,CO,PE
+23,30,2446,Colombia,Bolivia,CO,BO
+23,31,4258,Colombia,Chile,CO,CL
+23,32,4670,Colombia,Argentina,CO,AR
+23,33,3779,Colombia,Paraguay,CO,PY
+23,34,4786,Colombia,Uruguay,CO,UY
+24,25,1044,Venezuela,Guyana,VE,GY
+24,26,1386,Venezuela,Suriname,VE,SR
+24,27,3594,Venezuela,Brazil,VE,BR
+24,28,1743,Venezuela,Ecuador,VE,EC
+24,29,2743,Venezuela,Peru,VE,PE
+24,30,3003,Venezuela,Bolivia,VE,BO
+24,31,4900,Venezuela,Chile,VE,CL
+24,32,5093,Venezuela,Argentina,VE,AR
+24,33,4101,Venezuela,Paraguay,VE,PY
+24,34,5171,Venezuela,Uruguay,VE,UY
+25,26,342,Guyana,Suriname,GY,SR
+25,27,2756,Guyana,Brazil,GY,BR
+25,28,2383,Guyana,Ecuador,GY,EC
+25,29,2958,Guyana,Peru,GY,PE
+25,30,2814,Guyana,Bolivia,GY,BO
+25,31,4666,Guyana,Chile,GY,CL
+25,32,4604,Guyana,Argentina,GY,AR
+25,33,3566,Guyana,Paraguay,GY,PY
+25,34,4641,Guyana,Uruguay,GY,UY
+26,27,2540,Suriname,Brazil,SR,BR
+26,28,2668,Suriname,Ecuador,SR,EC
+26,29,3129,Suriname,Peru,SR,PE
+26,30,2864,Suriname,Bolivia,SR,BO
+26,31,4664,Suriname,Chile,SR,CL
+26,32,4510,Suriname,Argentina,SR,AR
+26,33,3469,Suriname,Paraguay,SR,PY
+26,34,4532,Suriname,Uruguay,SR,UY
+27,28,3776,Brazil,Ecuador,BR,EC
+27,29,3168,Brazil,Peru,BR,PE
+27,30,2160,Brazil,Bolivia,BR,BO
+27,31,3007,Brazil,Chile,BR,CL
+27,32,2334,Brazil,Argentina,BR,AR
+27,33,1451,Brazil,Paraguay,BR,PY
+27,34,2274,Brazil,Uruguay,BR,UY
+28,29,1328,Ecuador,Peru,EC,PE
+28,30,2138,Ecuador,Bolivia,EC,BO
+28,31,3787,Ecuador,Chile,EC,CL
+28,32,4360,Ecuador,Argentina,EC,AR
+28,33,3579,Ecuador,Paraguay,EC,PY
+28,34,4501,Ecuador,Uruguay,EC,UY
+29,30,1078,Peru,Bolivia,PE,BO
+29,31,2466,Peru,Chile,PE,CL
+29,32,3137,Peru,Argentina,PE,AR
+29,33,2517,Peru,Paraguay,PE,PY
+29,34,3299,Peru,Uruguay,PE,UY
+30,31,1901,Bolivia,Chile,BO,CL
+30,32,2235,Bolivia,Argentina,BO,AR
+30,33,1467,Bolivia,Paraguay,BO,PY
+30,34,2367,Bolivia,Uruguay,BO,UY
+31,32,1138,Chile,Argentina,CL,AR
+31,33,1559,Chile,Paraguay,CL,PY
+31,34,1342,Chile,Uruguay,CL,UY
+32,33,1041,Argentina,Paraguay,AR,PY
+32,34,205,Argentina,Uruguay,AR,UY
+33,34,1080,Paraguay,Uruguay,PY,UY

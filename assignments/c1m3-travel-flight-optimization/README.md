@@ -21,16 +21,14 @@ Fictional context: implementing the core algorithms for **TravelOptima Inc.**, a
 - `submission_checker.py` — end-of-notebook check before submitting to the autograder.
 - `tour_widget_server.py` — Flask server backing the tour visualizer widgets.
 
-## Assets not yet downloaded
+## Assets
 
-The Lab environment also ships these directories, needed for full widget/visualization functionality:
+Mirrored from the Lab environment as downloaded:
 
-- `data/` — graph datasets and world/continent data.
-- `images/` — assets for the visualizations.
-- `static/` — Flask static files.
-- `templates/` — Flask HTML templates.
-
-Download them from the Lab file browser and drop them alongside the Python files if you want the widgets to render locally.
+- `data/` — 6 CSVs: world/continents/americas country lists, distances, flights, tour countries.
+- `images/` — `app.png` (visualization screenshot).
+- `static/` — `tour_widget.html`, `widget_config.js` (Flask static assets).
+- `templates/` — empty in the Lab download. `tour_widget_server.py` calls `render_template('tour_widget.html')`, which Flask expects to find in `templates/`; the same-named file only exists under `static/`. If the widget fails to render locally, copy `static/tour_widget.html` into `templates/` (or re-check the Lab file browser to see if a separate `templates/tour_widget.html` exists there and needs downloading).
 
 ## Local workflow
 
