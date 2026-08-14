@@ -7,11 +7,13 @@ Lectures run on a hosted JupyterLab environment on the Coursera platform, where 
 ## Structure
 
 ```
-labs/
-  data-structures/       binary tree, linked list, AVL tree, graph implementations
-  word-count-refactor/   progressive refactor of a word-counting script (v1 -> v3)
+labs/                              ungraded lecture code examples
+  data-structures/                 binary tree, linked list, AVL tree, graph implementations
+  word-count-refactor/             progressive refactor of a word-counting script (v1 -> v3)
+assignments/                       graded labs (baseline copy from the Lab, worked locally)
+  c1m3-travel-flight-optimization/ Dijkstra + TSP on graphs (Course 1, Module 3)
 resources/
-  lab-environment-guide.md   notes on the platform's hosted lab environment
+  lab-environment-guide.md         notes on the platform's hosted lab environment
 ```
 
 ## Environment
